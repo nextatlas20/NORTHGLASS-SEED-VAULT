@@ -1,0 +1,17 @@
+accession_id,species,zone,collection_year,active,revision
+AC-401,Alpine aster,V-1,2047,true,1
+AC-402,Blue flax,V-2,2044,true,1
+AC-403,Copper lily,V-1,2048,true,2
+AC-404,Dune sage,V-3,2043,true,1
+AC-405,Elm fern,V-2,2046,true,1
+AC-406,Fog orchid,V-4,true,1
+AC-407,Garden pea,V-1,2042,false,1
+AC-402,Blue flax,V-2,2044,true,3
+AC-405,Elm fern,V-2,2046,false,2
+AC-403,Bad|species,V-1,2048,true,5
+broken,Ignore,V-1,2048,true,1
+AC-408,Duplicate zone,V-1;V-2,2048,true,1
+AC-404,Dune sage,V-3,2043,true,1
+AC-406,Fog orchid,V-4,2045,true,2
+AC-408,River mint,V-2,2041,true,2
+AC-409,Moss campion,V-2,2039,true,1

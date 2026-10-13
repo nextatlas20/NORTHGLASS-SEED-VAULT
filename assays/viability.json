@@ -1,0 +1,13 @@
+[
+  {"assay_id":"VA-701","accession_id":"AC-401","germination_pct":82,"tested_on":"2050-02-18","status":"valid","revision":1},
+  {"assay_id":"VA-702","accession_id":"AC-402","germination_pct":66,"tested_on":"2050-09-14","status":"valid","revision":1},
+  {"assay_id":"VA-703","accession_id":"AC-403","germination_pct":91,"tested_on":"2048-12-03","status":"valid","revision":2},
+  {"assay_id":"VA-704","accession_id":"AC-404","germination_pct":74,"tested_on":"2049-01-10","status":"valid","revision":1},
+  {"assay_id":"VA-705","accession_id":"AC-405","germination_pct":55,"tested_on":"2050-01-02","status":"valid","revision":1},
+  {"assay_id":"VA-706","accession_id":"AC-406","germination_pct":71,"tested_on":"2050-04-01","status":"void","revision":1},
+  {"assay_id":"VA-702","accession_id":"AC-402","germination_pct":68,"tested_on":"2050-10-03","status":"valid","revision":3},
+  {"assay_id":"VA-703","accession_id":"AC-403","germination_pct":89,"tested_on":"2050-05-11","status":"valid","revision":1},
+  {"assay_id":"VA-999","accession_id":"wrong","germination_pct":90,"tested_on":"2050-01-01","status":"valid","revision":1},
+  {"assay_id":"VA-707","accession_id":"AC-404","germination_pct":101,"tested_on":"2050-01-01","status":"valid","revision":1},
+  {"assay_id":"VA-705","accession_id":"AC-405","germination_pct":55,"tested_on":"bad-date","status":"valid","revision":4}
+]
