@@ -1,0 +1,8 @@
+accession_id,species,zone,collection_year,review_state,tested_on,germination_pct,assay_id,decision,selection_order
+AC-409,Moss campion,V-2,2039,unassayed,,,,selected,1
+AC-408,River mint,V-2,2041,unassayed,,,,deferred,
+AC-406,Fog orchid,V-4,2045,unassayed,,,,selected,2
+AC-403,Copper lily,V-1,2048,expired,2048-12-03,91,VA-703,selected,3
+AC-404,Dune sage,V-3,2043,expired,2049-01-10,74,VA-704,selected,4
+AC-402,Blue flax,V-2,2044,low,2050-10-03,68,VA-702,deferred,
+AC-401,Alpine aster,V-1,2047,clear,2050-02-18,82,VA-701,not-due,
